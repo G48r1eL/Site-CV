@@ -1,0 +1,47 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 200%;
+    width: 100%;
+}
+/* Header */
+#navbar{
+    background:blue;
+    overflow: hidden;
+    top: 0;
+    width: 100%;
+    display: block;
+    position:fixed;
+    transition: 0.4s;
+    padding: 15px 0px 15px;
+
+
+}
+nav ul{
+    list-style: none;
+    float: right;
+    width : 50%;
+    padding:0px;
+
+}
+nav li{
+    display: inline-block;
+    width : 19%;
+    height: 100%;
+    padding: 0px;
+    
+}
+#logo{
+    font-size: 35px;
+    display: inline-block;
+    float: left;
+}
+/* Footer */
+footer{
+    background:#ccc;
+    position:fixed;
+    bottom:0;
+    width:100%;
+    padding-top:50px;
+    height:50px;
+}

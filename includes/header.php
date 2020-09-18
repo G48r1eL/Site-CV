@@ -6,14 +6,12 @@
                         <a href="index.php">ACCUEIL</a>
                     </li>
                     <li>
-                        <a href="experiences.php">EXPERIENCES</a>
+                        <a href="parcours.php">MON PARCOURS</a>
                     </li>
                     <li>
-                        <a href="competences.php">COMPETENCES</a>
+                        <a href="passions.php">MES PASSIONS</a>
                     </li>
-                    <li>
-                        <a href="formations.php">FORMATIONS</a>
-                    </li>
+                    
                     <li>
                         <a href="contact.php">CONTACT</a>
                     </li>

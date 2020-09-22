@@ -1,4 +1,6 @@
-<?php include('includes/header.php');?>
+<?php 
+$titre = "Passions - G.Amari";
+include('includes/header.php');?>
 <div id="passions">
     <div id="informatique">
         <table>
@@ -36,7 +38,7 @@ j'ai résolu près de 200 challenges.</td></tr>
                 <th>Sports</th>
                 <th class="extlink"><a href="https://www.strava.com/athletes/26823238"><img src="images/strava.png"/></a></th>
             </tr>
-            <tr><td class="txtpassion" colspan="2">Que ce soit dans le sport où ailleurs  je m'investit pleinement et je donne le meilleur de moi-même pour atteindre mes objectifs.</td></tr>
+            <tr><td class="txtpassion" colspan="2">Que ce soit dans le sport où ailleurs  je m'investis pleinement et je donne le meilleur de moi-même pour atteindre mes objectifs.</td></tr>
         </table>
     </div>
     

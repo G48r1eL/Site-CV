@@ -62,7 +62,7 @@ main{
 
 }
 #main-prez{
-    background-image: url("/prez/images/main-bg.png");
+    background-image: url("/images/main-bg.png");
     height:100%;
     display: block;
     text-align: center;
@@ -102,7 +102,7 @@ main{
     padding-top: 20%;
     height : 1000px;
     display: block;
-    background-image: url("/prez/images/CV.png");
+    background-image: url("/images/CV.png");
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -160,7 +160,7 @@ footer p{
 #timeline{
     list-style: none;
     display: block;
-    background-image: url("/prez/images/main-bg.png");
+    background-image: url("/images/main-bg.png");
     height: auto;
     padding-top: 10% ;
     overflow-x: scroll;
@@ -318,7 +318,7 @@ footer p{
 }
 #informatique{
     display: block;
-    background-image: url("/prez/images/tech.jpg");
+    background-image: url("/images/tech.jpg");
     background-attachment: fixed;
     background-position: top;
     background-size: 100%;
@@ -326,7 +326,7 @@ footer p{
 }
 #secu{
     display: block;
-    background-image: url("/prez/images/secu.jpeg");
+    background-image: url("/images/secu.jpeg");
     background-attachment: fixed;
     background-position: top;
     background-size: 100%;
@@ -334,7 +334,7 @@ footer p{
 }
 #sport{
     display: block;
-    background-image: url("/prez/images/sport.jpeg");
+    background-image: url("/images/sport.jpeg");
     background-attachment: fixed;
     background-position: top;
     background-size: 100%;
@@ -342,7 +342,7 @@ footer p{
     
 }
 #dev{
-    background-image: url("/prez/images/dev.jpg");
+    background-image: url("/images/dev.jpg");
     background-attachment: fixed;
     background-position: top;
     background-size: 100%;

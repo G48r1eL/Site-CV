@@ -1,4 +1,6 @@
-<?php include('includes/header.php');?>
+<?php
+$titre = "Parcours - G.Amari";
+include('includes/header.php');?>
     <div id="timeline">
         <div class="year" id="2011"><h1>2011 - 2013</h1>
             <table class="formation">

@@ -3,7 +3,7 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title></title>
+    <title><?php if(isset($titre)){echo $titre;} ?></title>
     <meta name="description" content="">
     <link href="style/style.css" rel="stylesheet">
     <link rel="apple-touch-icon" sizes="180x180" href="favicon_io/apple-touch-icon.png">
@@ -20,17 +20,13 @@
     <nav id="nav-top-menu">
                 <ul>
                     <li>
-                        <a href="index.php">ACCUEIL</a>
+                        <a href="/">ACCUEIL</a>
                     </li>
                     <li>
-                        <a href="parcours.php">MON PARCOURS</a>
+                        <a href="parcours">MON PARCOURS</a>
                     </li>
                     <li>
-                        <a href="passions.php">MES PASSIONS</a>
-                    </li>
-                    
-                    <li>
-                        <a href="contact.php">CONTACT</a>
+                        <a href="passions">MES PASSIONS</a>
                     </li>
                 </ul>
     </nav>

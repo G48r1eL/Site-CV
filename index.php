@@ -1,4 +1,7 @@
-<?php include('includes/header.php');?>
+<?php 
+$titre = "Accueil - G.Amari";
+include('includes/header.php');
+?>
 <main>
     <div id="main-prez">
         <img src="images/photo_G-AMARI.png" id="photo-id"/>
